@@ -43,6 +43,7 @@ Desarrollar un modelo analítico integral que identifique las ubicaciones óptim
 🧠 Matriz de oportunidades:
 
 Definición de umbrales para la clasificación lógica de los 6 países en 3 segmentos:
+
     🔴Expansión: Países con insuficiente cobertura de vacunación (<170mil dosis/1000hab) o Tasa de Letalidad Crítica (> 2.5% < 40%).
     
     🟡Asociación Estratégica: Países con cobertura de vacunación controlada (entre 170mil y 200mil dosis/1000hab) y Tasa de Letalidad Controlada (<= 2.5%).
@@ -50,6 +51,7 @@ Definición de umbrales para la clasificación lógica de los 6 países en 3 seg
     🟢Suficiencia: Países con cobertura de vacunación exitosa (>200mil dosis/100mil hab) y Tasa de Letalidad Controlada (<= 2.5%).
 
 Conclusiones:
+
     🔴Expansión: Mercados prioritarios para nuevos laboratorios. Prioridad Crítica: Brasil, México y Perú (justificación en el proyecto).
     Acción Recomendada: La expansión de laboratorios aquí es mandatoria. Se requiere infraestructura de laboratorios externos privados como Biogenesys para colaborar con la deficiente atención del sistema público y para lograr una producción local masiva que logre abastecer la inmensa demanda interna. Podrán buscarse contratos gubernamentales para suplir la falta de infraestructura estatal.
     
